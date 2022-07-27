@@ -17,3 +17,8 @@
 > char
 4. 논리형
 > boolean
+   
+#### 각 자료형의 크기   
+> Byte (1byte), short(2byte), int(4byte), Long(8byte)
+> float(4byte), Double(8byte)
+> char(1byte), boolean(2byte)
