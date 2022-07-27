@@ -26,9 +26,10 @@
    
    
    
-### 객체 지향 프로그래밍 설계 원칙 5가지 - SOLID(제목을 클릭하면 세부 내용으로 이동합니다.)   
-[1. SRP(Single responsibility principle) - 단일 책임 원칙]()
-[2. OCP(Open-closed principle) - 개방 폐쇄 원칙]()
-[3. LSP(Liskov Substitution principle) - 리스코프 치환 원칙]()
-[4. ISP(Interface segregation principle) - 인터페이스 분리 원칙]()
-[5. DIP(Dependency Inversion principle) - 의존 관계 역전 원칙]()
+### 객체 지향 프로그래밍 설계 원칙 5가지 - SOLID
+****(제목을 클릭하면 세부 내용으로 이동합니다.)      
+[1. SRP(Single responsibility principle) - 단일 책임 원칙]()   
+[2. OCP(Open-closed principle) - 개방 폐쇄 원칙]()   
+[3. LSP(Liskov Substitution principle) - 리스코프 치환 원칙]()   
+[4. ISP(Interface segregation principle) - 인터페이스 분리 원칙]()   
+[5. DIP(Dependency Inversion principle) - 의존 관계 역전 원칙]()   
